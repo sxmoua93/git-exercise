@@ -3,3 +3,5 @@
 
 
 TEST GIT FILE
+
+$ git rebase main
